@@ -1,0 +1,18 @@
+{
+    "name": "NativePlugin.iOS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8a561e424479b45d6a8bd67164ee9868"
+    ],
+    "includePlatforms": [
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
